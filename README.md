@@ -1,1 +1,2 @@
-# board-zerynth-riverdi_tft50_iotxxx
+# Riverdi IoT Display
+
