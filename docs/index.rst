@@ -113,6 +113,8 @@ After virtualization, the Riverdi IoT Display is ready to be programmed and the 
 
 .. important:: To exploit the 5" TFT display 800×480 resolution driven by BT815 graphics controller, the :ref:`lib.riverdi.displays library <lib.riverdi.displays>` must be installed and imported on the Zerynth script.
 
+.. important:: To test a complete IoT Demo App, just create a new Zerynth project using the "clone from Github" feature with this Github repo link `https://github.com/riverdi/RiTFT-50-IOT-XX <https://github.com/riverdi/RiTFT-50-IOT-XX>`_
+
 Firmware Over the Air update (FOTA)
 ***********************************
 
