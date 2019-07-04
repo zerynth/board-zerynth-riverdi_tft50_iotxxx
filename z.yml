@@ -1,0 +1,16 @@
+---
+description: Add support for Riverdi IoT Display
+fullname: board.zerynth.riverdi_tft50_iotxxx
+info:
+    board: Riverdi IoT Display
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- iot
+- riverdi
+- display
+title: Riverdi IoT Display Support Package
+...
